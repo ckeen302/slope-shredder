@@ -4,7 +4,7 @@ A fun, arcade-style snowboarding game where you navigate down a slope while avoi
 
 ## Play Now
 
-[Play Slope Shredder Online](https://snowshredder.vercel.app)
+[Play Slope Shredder Online](https://slopeshredder.vercel.app)
 
 ## Features
 
